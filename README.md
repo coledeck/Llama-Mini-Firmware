@@ -31,13 +31,6 @@ All settings are automatically saved to EEPROM and loaded on boot.
 ![E-Steps](doc/llama/screenshot-esteps.jpg)
 ![Octoprint](doc/llama/screenshot-octoprint.jpg)
 
-#### Feed the Llama
-
-This plugin is developed in my spare time. If you like it, please
-consider supporting further development and updates by making a donation.
-
-[![Feed the Llama](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=HPGUMVJFSCXZ4&no_recurring=0&currency_code=USD)
-
 ---
 
 ## Installing Livestock
